@@ -11,5 +11,9 @@ If the adapter is between your device and the BAD-USB device, only electricity c
 
 ## What do i need to build such a USB-Condom?
 ### Shopping List
-What you need to build the exact same USB-Condoms as here described, you will need to buy some USB Plugs and USB Ports.
-I've used this ones:
+* What you need to build the exact same USB-Condoms as here described, you will need to buy some USB Plugs and USB Ports.
+* You will also need a soldering iron and solder. If you would like to print a case too, you will need acces to a 3D-printer.
+
+| USB A      | USB C      |
+|------------|-------------|
+| <img src="https://github.com/inflac/USB-Condom/blob/main/USB%20A%20Stecker-Buchse.png?raw=true" width="720"/> | <img src="https://github.com/inflac/USB-Condom/blob/main/USB%20C%20Stecker-Buchse.png?raw=true" width="720"/> |
