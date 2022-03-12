@@ -17,3 +17,16 @@ If the adapter is between your device and the BAD-USB device, only electricity f
 | USB A      | USB C      |
 |------------|-------------|
 | <img src="https://github.com/inflac/USB-Condom/blob/main/USB%20A%20Stecker-Buchse.png?raw=true" width="720"/> | <img src="https://github.com/inflac/USB-Condom/blob/main/USB%20C%20Stecker-Buchse.png?raw=true" width="720"/> |
+
+## How do i build the USB-Condom?
+### instructions
+* To build this kind of USB-Condom you will normaly only have to solder the two + and - pins of one Port and one Plug together. Keep safe to not connect the Datapins. Also keept track of the labeling. Normaly the Datapins should be the two in the middle. They should also not touch the one on the opposit side. If that happens, a conection can be established and data will travel.
+
+## Will my build work?
+### Give it a test
+* To test if your USB-Condom realy works, plug one end into a computer and an other one into a consumer. The consumer should be a device wich can show data traveling. Therefore you can use your mobilephone. Then try to send data from your computer to your phone and vise versa. Normaly none of the devices should show a connection between each other. There should be no possibility to interect with the device on the other side of the USB-Condom.
+* If there is no connection, the USB condom is functional. Congratulations!
+
+## Are there any disadvantages?
+### Unfortunately yes
+* As i previously mentioned, this is the simplest version of a USB-Condom. Because of this, there are also some disadvantages. This includes the fact that phones usually no longer support fast charging. This only applies as long as the USB condom is between a power source and the consumer.
