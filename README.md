@@ -15,7 +15,7 @@ If the adapter is between your device and the BAD-USB device, only electricity f
 * You will also need a soldering iron and solder. If you would like to print a case too, you will need acces to a 3D-printer.
 
 | USB A      | USB C      |
-|------------|-------------|
+|------------|------------|
 | <img src="https://github.com/inflac/USB-Condom/blob/main/USB%20A%20Stecker-Buchse.png?raw=true" width="720"/> | <img src="https://github.com/inflac/USB-Condom/blob/main/USB%20C%20Stecker-Buchse.png?raw=true" width="720"/> |
 
 ## How do i build the USB-Condom?
@@ -32,8 +32,13 @@ If the adapter is between your device and the BAD-USB device, only electricity f
 * As i previously mentioned, this is the simplest version of a USB-Condom. Because of this, there are also some disadvantages. This includes the fact that phones usually no longer support fast charging. This only applies as long as the USB condom is between a power source and the consumer.
 
 ## Is there a way to support fast charging anyway?
-### Yes you can! But:
-* If you connect the both data pins on the side of the plug, the phone will charge faster. This is possible because when the cable is plugged into the phone, the phone uses the data pins to negotiate how much power it can draw.
+### Yes you can!
+* USB-C: If you connect the both data pins on the side of the plug, the phone will charge faster. This is possible because when the cable is plugged into the phone, the phone uses the data pins to negotiate how much power it can draw.
 You can either solder the data pins together or solder a resistor with a maximum of 200 ohms between them.
-<img src="https://github.com/inflac/USB-Condom/blob/main/USB-C_soildering_instruction.png" width="480"/>
-* If you would like to enable faster charging on a USB-A Condom, you will need to follow the next few instructions! Do not connect the Datapins of the Plug for a USB-A Condom without any switch between it!
+
+* USB-A: If you would like to enable faster charging on a USB-A Condom, you will need to follow some other instructions! Do not connect the Datapins of the Plug for a USB-A Condom without any switch between it! This is important to protect your USB-A Ports of for example a computer. A PC can give you a maximum of 500mA. If you connect the both Datapins on a USB-A Condom and connect the Condom to a Computer you may damage the USB Socket of your Computer. We put in a little switch so we can distinguish between the charger and the computer. If a computer is connected, we leave the data pins untouched. But if we connect the cable to a charger, we flip the switch, creating a connection between Data + and Data -.
+
+| USB A      | USB C      |
+|------------|------------|
+| | <img src="https://github.com/inflac/USB-Condom/blob/main/USB-C_soildering_instruction.png" width="480"/> |
+
