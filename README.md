@@ -36,4 +36,4 @@ If the adapter is between your device and the BAD-USB device, only electricity f
 * If you connect the both data pins on the side of the plug, the phone will charge faster. This is possible because when the cable is plugged into the phone, the phone uses the data pins to negotiate how much power it can draw.
 You can either solder the data pins together or solder a resistor with a maximum of 200 ohms between them.
 <img src="https://github.com/inflac/USB-Condom/blob/main/USB-C_soildering_instruction.png" width="480"/>
-* If you would like to enable faster charging on a USB-A Condom, you will need to follow the next few instructions! Do not connect the Datapins of the Plug for a USB-A Condom without any switch between it!
+### If you would like to enable faster charging on a USB-A Condom, you will need to follow the next few instructions! Do not connect the Datapins of the Plug for a USB-A Condom without any switch between it!
