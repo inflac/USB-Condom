@@ -40,5 +40,5 @@ You can either solder the data pins together or solder a resistor with a maximum
 
 | USB A      | USB C      |
 |------------|------------|
-| | <img src="https://github.com/inflac/USB-Condom/blob/main/USB-C_soildering_instruction.png" width="480"/> |
+| <img src="https://github.com/inflac/USB-Condom/blob/main/USB-A_soildering_instruction.png" width="720"/> | <img src="https://github.com/inflac/USB-Condom/blob/main/USB-C_soildering_instruction.png" width="720"/> |
 
