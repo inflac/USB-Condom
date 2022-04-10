@@ -35,3 +35,4 @@ If the adapter is between your device and the BAD-USB device, only electricity f
 ### Yes you can!
 * If you connect the both data pins on the side of the plug, the phone will charge faster. This is possible because when the cable is plugged into the phone, the phone uses the data pins to negotiate how much power it can draw.
 You can either solder the data pins together or solder a resistor with a maximum of 200 ohms between them.
+<img src="https://github.com/inflac/USB-Condom/blob/main/USB-C_where_to_soilder.png" width="480"/>
