@@ -1,4 +1,4 @@
-# USB-Condom
+# USBedrock
 ## Introduction
 A USB-Condom is a Data-Blocker, which prevents you from getting a victim of BAD-USB.
 If you now wonder what BAD-USB mean, visit this short <a href="https://en.wikipedia.org/wiki/BadUSB">Wikipedia article</a> or watch the following video from <a href="https://www.blackhat.com/us-14/video/badusb-on-accessories-that-turn-evil.html">Blackhat 2014</a>.
